@@ -132,6 +132,7 @@ section{
     color: #0B1416;*/
     border-radius: 10px;
     align-items: center;
+    max-width: 20%;
 }
 .content_1 h3{
     font-size: 30px;
